@@ -2,6 +2,8 @@
 
 # Arc Raiders Loot Deep Dive
 
+Google Sheets Link : [Arc Raiders Item Tracker](https://docs.google.com/spreadsheets/d/1Unvls4dH4esEcWdbbjQcm2Ix8XGi0h4aEYgbZdMmKz8/edit?usp=sharing)
+
 Creator : ArcRaidersScience
 
 Date Last Updated : 12/02/2025
