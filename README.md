@@ -1,9 +1,7 @@
 # Arc Raiders Loot Deep Dive
----
 Creator : ArcRaidersScience
 Date Last Updated : 12/02/2025
 Game : [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/)
----
 ## Data Sources and Tools Used
 - [Arc Raiders Fandom](https://arc-raiders.fandom.com/wiki/Arc_Raiders_Wiki)
   - all the data was scrapped from this site
@@ -15,7 +13,6 @@ Game : [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/)
   - version control as well as public updates
 - [Python](https://www.python.org/)
   - coding language used for data analytics
----
 # Purpose Of This Repository and Data Collection
 
 Hey Raiders! In this repository, we will used publicly sources data to dive deep into the interworkings of [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/) to get a better understanding of spawn rates for items based on map, map condition and container type. 
