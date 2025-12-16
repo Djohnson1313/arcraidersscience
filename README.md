@@ -4,9 +4,9 @@
 
 Google Sheets Link : [Arc Raiders Item Tracker](https://docs.google.com/spreadsheets/d/1Unvls4dH4esEcWdbbjQcm2Ix8XGi0h4aEYgbZdMmKz8/edit?usp=sharing)
 
-Creator : ArcRaidersScience
+Creator : DJohnson1313
 
-Date Last Updated : 12/02/2025
+Date Last Updated : 12/16/2025
 
 
 Game : [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/)
@@ -23,7 +23,7 @@ Game : [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/)
   - coding language used for data analytics
 
 ## Contact Information
-- 
+- blueshirtengineering@yahoo.com
   - use this email to send me suggestions, fixes, complaints or anything else useful to the project
 
 # Purpose Of This Repository and Data Collection
