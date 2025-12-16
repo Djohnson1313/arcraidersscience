@@ -32,7 +32,7 @@ Hey Raiders! In this repository, we will used publicly sourced data to dive deep
 
 ## How does the Google Sheet work?
 
-Luckily, I've made it as simple as possible. You can either type out the item you are tracking in the `Item` column, or use the dropdown arrow in the column to search for your item. `Item Rarity` and `Item Type` will auto fill for you, just add what map and map condiction you found the item on, as well as ahow many times you searched that specific container with the specificed map condition. Also ensure to fill out `Container Type` to help us understand where items drop!
+Luckily, I've made it as simple as possible. You can either type out the item you are tracking in the `Item` column, or use the dropdown arrow in the column to search for your item. `Item Rarity` and `Item Type` will auto fill for you, just add what `Map` and `Map Condiction` you found the item on, as well as how many times you searched that specific container with the specificed map condition in the `Number Of Container Checks` column. Also ensure to fill out `Container Type` to help us understand where items drop!
 
 # Biases
 
