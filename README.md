@@ -34,16 +34,19 @@ Hey Raiders! In this repository, we will used publicly sourced data to dive deep
 
 Luckily, I've made it as simple as possible. You can either type out the item you are tracking in the `Item` column, or use the dropdown arrow in the column to search for your item. `Item Rarity` and `Item Type` will auto fill for you, just add what `Map` and `Map Condiction` you found the item on, as well as how many times you searched that specific container with the specificed map condition in the `Number Of Container Checks` column. Also ensure to fill out `Container Type` to help us understand where items drop!
 
-# Biases
+# Biases and potential weakpoints
 
-Let's take a quick look into the potential biases that this data may contain.
+Let's take a quick look into the potential biases and weakpoints that this data collection process may contain.
 
-- Reddit Community
+- Reddit Community - Bias
   - As of the most recent version of this repo, this is only being posted to reddit, meaning only raiders who also check the [R/ArcRaiders](https://www.reddit.com/r/ArcRaiders/) subreddit will be interacting with this data collection effort.
     - Solution : Eventually this repo and google sheet may be posted to other sites.
-- Nightime Bias
+- Nightime - Bias
   - From day 1 the Arc Raiders community have been told that nightime not only increases loot spawns, but also blueprint spawns. This may cause a bias in the data where large amounts of raiders report data of found objects in overwhelming quantaties for night raids, causing an inequality in     data spread.
     - Solution : Raiders! Please try to add day data too!
+- Counting - Weakpoint
+  - This data will be less valuable if the number of times the container was checked is not properly counted. As of right now, the only solution is to keep count in your head or some sort of counter. I do not have an integrated solution as of this moment.
+     - Solution : Open to ideas!
 
 # Data TLDR
 
