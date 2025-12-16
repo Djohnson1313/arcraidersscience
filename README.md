@@ -51,3 +51,10 @@ Let's take a quick look into the potential biases and weakpoints that this data 
 # Data TLDR
 
 Here is where some analytics will be displayed once enough is sourced! See you topside raider!
+
+## Repository Structure
+
+```
+├── README.md
+└── arc_radiers_deep_dive.ipynb
+```
