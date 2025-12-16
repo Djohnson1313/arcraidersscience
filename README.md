@@ -28,7 +28,22 @@ Game : [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/)
 
 # Purpose Of This Repository and Data Collection
 
-Hey Raiders! In this repository, we will used publicly sourced data to dive deep into the interworkings of [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/) to get a better understanding of spawn rates for items based on maps, map condition and container type. This will hopefully alleviate some of the speculation regarding loot. I am aware of some similar undertakings by large youtube channels. Actually, those videos are what inspired me! hopefull we can come together to add as much data as we can to a singular place, allowing any creator or fan of Arc Raiders to dive into the data themselves. As of right now, I will generate a single report based on the data from the community, however if this takes off, I would love to do more regular updates, maybe even weekly if theres enough activity!  
+Hey Raiders! In this repository, we will used publicly sourced data to dive deep into the interworkings of [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/) to get a better understanding of spawn rates for items based on maps, map condition and container type. This will hopefully alleviate some of the speculation regarding loot. I am aware of some similar undertakings by large youtube channels. Actually, those videos are what inspired me! Hopefully we can come together to add as much data as we can to a singular place, allowing any creator or fan of Arc Raiders to dive into the data themselves. As of right now, I will generate a single report based on the data from the community, however if this takes off, I would love to do more regular updates, maybe even weekly if theres enough activity!
+
+## How does the Google Sheet work?
+
+Luckily, I've made it as simple as possible. You can either type out the item you are tracking in the `Item` column, or use the dropdown arrow in the column to search for your item. `Item Rarity` and `Item Type` will auto fill for you, just add what map and map condiction you found the item on, as well as ahow many times you searched that specific container with the specificed map condition. Also ensure to fill out `Container Type` to help us understand where items drop!
+
+# Biases
+
+Let's take a quick look into the potential biases that this data may contain.
+
+- Reddit Community
+  - As of the most recent version of this repo, this is only being posted to reddit, meaning only raiders who also check the [R/ArcRaiders](https://www.reddit.com/r/ArcRaiders/) subreddit will be interacting with this data collection effort.
+    - Solution : Eventually this repo and google sheet may be posted to other sites.
+- Nightime Bias
+  - From day 1 the Arc Raiders community have been told that nightime not only increases loot spawns, but also blueprint spawns. This may cause a bias in the data where large amounts of raiders report data of found objects in overwhelming quantaties for night raids, causing an inequality in     data spread.
+    - Solution : Raiders! Please try to add day data too!
 
 # Data TLDR
 
